@@ -1,5 +1,5 @@
 # Project
-![Titanic](https://media.nationalgeographic.org/assets/photos/000/273/27302.jpg)
+<img src='https://media.nationalgeographic.org/assets/photos/000/273/27302.jpg' alt='Titanic'>
 
 
 
