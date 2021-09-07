@@ -1,4 +1,8 @@
 # Project
+![Titanic](https://media.nationalgeographic.org/assets/photos/000/273/27302.jpg)
+
+
+
 Hello friends,
 This project includes data analysis using **`pandas`** , **`Matplotlib`** , and **`Numpy`** for the  _Titanic_ publicly available dataset.
 # Files
